@@ -1,8 +1,33 @@
 [
-  { "id": "1", "name": "Gold Ring", "price": 15000, "image": "/placeholder-ring.jpg" },
-  { "id": "2", "name": "Silver Necklace", "price": 8500, "image": "/placeholder-necklace.jpg" },
-  { "id": "3", "name": "Diamond Earrings", "price": 25000, "image": "/placeholder-earrings.jpg" },
-  { "id": "4", "name": "Pearl Bracelet", "price": 12000, "image": "/placeholder-bracelet.jpg" },
-  { "id": "5", "name": "Emerald Pendant", "price": 18000, "image": "/placeholder-pendant.jpg" }
+  {
+    "id": "1",
+    "name": "Gold Ring",
+    "price": 15000,
+    "image": "/ring.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Silver Necklace",
+    "price": 8500,
+    "image": "/silver.webp"
+  },
+  {
+    "id": "3",
+    "name": "Diamond Earrings",
+    "price": 25000,
+    "image": "/dimond.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Pearl Bracelet",
+    "price": 12000,
+    "image": "/pearl.webp"
+  },
+  {
+    "id": "5",
+    "name": "Emerald Pendant",
+    "price": 18000,
+    "image": "/emerald.webp"
+  }
 ]
 
